@@ -1,1 +1,3 @@
+A Biomedical Engineering project — see the IR deck (Deerwalk_IR) for detailed research materials.
+
 This group project focused on engineering a concept for a Smart Health Platform named "DeerWalk" using Arduino and Raspberry Pi. The platform was designed to go beyond simple tracking, aiming to predict and facilitate recovery from movement disorders. The system was specifically conceptualized to monitor and analyze complex motor symptoms associated with chronic conditions like Parkinson's Disease (e.g., resting tremor, bradykinesia, and postural instability). The development demonstrated an understanding of leveraging micro-computing and IoT principles to create an affordable and scalable solution for continuous, personalized disease management.
